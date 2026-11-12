@@ -40,7 +40,6 @@ Aplicativo Android desenvolvido em Java para apresentar o curso superior de **De
 
 * Java.
 * Android Studio.
-* AndroidX AppCompat.
 * XML para as interfaces.
 * `Intent` para navegação entre Activities.
 * `VideoView` para reprodução de mídia local.
